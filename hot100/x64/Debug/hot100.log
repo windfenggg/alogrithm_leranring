@@ -1,0 +1,13 @@
+﻿  源.cpp
+D:\C++practice\hot100\源.cpp(1232,1): error C2144: 语法错误:“int”的前面应有“;”
+D:\C++practice\hot100\源.cpp(1232,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++practice\hot100\源.cpp(1234,1): error C2059: 语法错误:“while”
+D:\C++practice\hot100\源.cpp(1234,26): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++practice\hot100\源.cpp(1234,26): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\C++practice\hot100\源.cpp(1247,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++practice\hot100\源.cpp(1247,1): error C2146: 语法错误: 缺少“;”(在标识符“链接：https”的前面)
+D:\C++practice\hot100\源.cpp(1249,1): error C3872: “0x3002”: 此字符不允许在标识符中使用
+D:\C++practice\hot100\源.cpp(1288,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\C++practice\hot100\源.cpp(1249,1): error C2146: 语法错误: 缺少“;”(在标识符“著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。”的前面)
+D:\C++practice\hot100\源.cpp(1288,46): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C++practice\hot100\源.cpp(1288,46): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
